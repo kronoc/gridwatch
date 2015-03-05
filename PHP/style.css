@@ -1,0 +1,110 @@
+
+H1
+ {
+     font-size: 30px;
+     font-weight: bold;
+     color: #FBF7D9;
+     padding: 0px;
+     margin: 0px;
+}
+H2
+ {
+	font-size: 18px;
+	font-weight: bold;
+	color:#FBF7D9;
+}
+title 
+{
+	font-size:36px;
+	font-weight: bold;
+	color:#D9D9F7;
+}
+
+body 
+{
+	background:  black url("bitmaps/Black Crackle.png");
+  	background-repeat: repeat;
+  	background-position: left;
+	color:#FBF7D9;
+	font-family:  Arial Narrow, Verdana, Helvetica, sans-serif; 
+	font-size: 14px;
+}
+
+.bezel
+{
+font-size: 11px;
+font-family:  Arial Narrow,DejaVu Sans Condensed, Verdana, Helvetica, sans-serif; 
+font-weight: bold;
+color: #FBF7D9;
+}
+.legend
+{
+font-size: 30px;
+font-weight: bold;
+color: #FBF7D9;
+}
+.small_legend
+{
+font-size: 9px;
+font-weight: bold;
+color: #FBF7D9;
+}
+.medium_legend
+{
+font-size: 14px;
+font-weight: bold;
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+color: #FBF7D9;
+}
+A
+{
+color:   #80C0FF; 
+text-decoration: none;
+}
+A:hover
+{
+color: #FFA080; 
+text-decoration: none;
+}
+A:active 
+{
+color: #202000; 
+text-decoration: none;
+}
+.button {
+	text-decoration: none;
+    border: none;
+    background: url('/bitmaps/button1.gif') no-repeat top;
+    margin-top: 0px;
+	color: #00008C; 
+	font-family: Verdana, Lucida Sans, Arial Narrow, Helvetica, sans-serif; 
+	font-weight: normal;
+	text-align: center;
+	padding-top: 0px;
+	border:0px;
+}
+.hot-button {
+    background: url('/bitmaps/button2.gif') no-repeat top;
+	color: #FF0000; 
+	border: none;
+	font-family: Verdana,  Lucida Sans,Arial Narrow, Helvetica, sans-serif; 
+	font-weight: normal;
+	text-align: center;
+	cursor: pointer;
+	margin-top: 0px;
+	padding-top: 0px;
+	}
+
+.mybutton
+{
+	color:  #000000; 
+}
+.mybutton:hover
+{
+	color:  #AA0000; 
+}
+
+.mybutton:active {
+    
+	color: #202000; 
+}
